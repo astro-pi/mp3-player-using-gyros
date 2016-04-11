@@ -1,0 +1,1 @@
+This entry uses standard buttons and the joystick but as it can be difficult to select a button while running on a treadmill, it also uses the gyroscope functionality to select the next/previous tracks and the volume controls.
